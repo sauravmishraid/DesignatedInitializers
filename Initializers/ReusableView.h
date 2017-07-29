@@ -16,5 +16,5 @@ NS_ASSUME_NONNULL_BEGIN
 - (nullable instancetype)initWithCoder:(NSCoder *)aDecoder NS_UNAVAILABLE;
 - (instancetype)initWithBackgroundColor:(UIColor *)color andBounds:(CGRect)frame NS_DESIGNATED_INITIALIZER;
 
-NS_ASSUME_NONNULL_END
+ NS_ASSUME_NONNULL_END
 @end
