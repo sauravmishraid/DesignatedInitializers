@@ -34,7 +34,7 @@
 //    return self;
 //}
 
--(instancetype)initWithBackgroundColor:(UIColor *)color andBounds:(CGRect)bounds
+- (instancetype)initWithBackgroundColor:(UIColor *)color andBounds:(CGRect)bounds
 {
     self = [super initWithFrame:bounds];
     
